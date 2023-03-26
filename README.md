@@ -19,7 +19,7 @@ Once you have installed Bash, you can run any of the scripts by navigating to th
 Feel free to contribute to this repository by submitting pull requests with improvements or new scripts. Please make sure to follow the repository's coding style and add appropriate documentation to your code.
 
 ## License
-This repository is licensed under the Apache License 2.0 - see the [License](./License) file for details.
+This repository is licensed under the Apache License 2.0 - see the [License]([./License](https://github.com/octonawish-akcodes/playing-with-bash/blob/main/LICENSE)) file for details.
 
 
 
